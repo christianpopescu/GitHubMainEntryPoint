@@ -1,0 +1,30 @@
+= The projects on github/christianpopescu
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2023-01-19
+:sectnums:
+:toc:
+:toclevels: 5
+
+== The projects
+
+
+=== SDEToolsPoc
+
+https://github.com/christianpopescu/SDEToolsPoc
+
+* File Helper
+It is a helper to change file content based on regular expressions
+
+SDEToolsPoc/src/NetCore/SDETools/src/FileHelper/
+
+* Collections abstract data type
+
+    SDEToolsPoc/src/NetCore/SDETools/src/AbstractDataHelper/Collections/
+
+    ListOfElements to develop further
+
+=== Poc
+
+https://github.com/christianpopescu/Poc
+
+Main Poc for different projects and technologies
