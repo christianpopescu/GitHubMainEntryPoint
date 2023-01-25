@@ -28,3 +28,41 @@ SDEToolsPoc/src/NetCore/SDETools/src/FileHelper/
 https://github.com/christianpopescu/Poc
 
 Main Poc for different projects and technologies
+
+=== LaSdeCppTool
+
+Light Agile Software Development Engineer Tool
+
+https://github.com/christianpopescu/LaSdeCppTool
+
+This is the C++ version
+
+https://github.com/christianpopescu/LaSdeCppTool/blob/main/doc/LaSdeCppTool.adoc
+
+=== PySDETools
+
+https://github.com/christianpopescu/PySDETools
+
+=== WinClientToLinux
+
+https://github.com/christianpopescu/WinClientToLinux
+
+SFTP, SSH, etc. client from Windows to Linux
+
+Uses Renci.
+
+=== DevOpsHelperTools
+
+https://github.com/christianpopescu/DevOpsHelperTools
+
+Admin scripts for Oracle
+
+Scripts for Version Control SVN (dump repository, load, etc).
+
+=== SDEToolsServer
+
+https://github.com/christianpopescu/SDEToolsServer
+
+* Developped in C#
+
+* Small Socket server
