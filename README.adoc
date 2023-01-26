@@ -3,3 +3,8 @@
 Entry point to Git Hub - to access all repositories documentation  + info
 
 include::Doc/Main.adoc[]
+
+
+This repository contains also some scripts.
+
+link:src/Init_Dev_Repo.ps1[]
