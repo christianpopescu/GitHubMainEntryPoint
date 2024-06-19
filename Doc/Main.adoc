@@ -7,8 +7,23 @@ v 1.3, 2023-11-10
 :pdf-page-size:A3
 
 == The projects
+To correspond to what is on GitHub the projects must be sorted on name.
 
 
+=== CcpWinFramework
+
+https://github.com/christianpopescu/CcpWinFramework
+
+The idea is to create a sort of Framework for some tasks on Windows:
+
+* Command Line Runner
+* Archiver runner
+
+
+=== christianpopescu.github.io
+
+Sandbox of creation of static site from GitHub repository.
+To activate as a kind of blog.
 
 === Knowledge Management
 
