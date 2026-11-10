@@ -1,0 +1,133 @@
+= Summary of the repositories on github/christianpopescu
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2026-11-10
+:sectnums:
+:toc:
+:toclevels: 3
+
+Summary of the 61 repositories (public and private) of the account, built from each repository's README and top-level content.
+See also xref:Main.adoc[the main project list].
+
+== Documentation and knowledge management
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| DocumentationHelper | Java 21 / Maven Swing desktop application. Converts AsciiDoc documents to HTML and PDF (uses Graphviz).
+| KnowledgeManagement | Central store of professional notes. AsciiDoc, Maven/PDF builds, books, architecture, `swe` and `tools` folders, wiki.
+| KmCpp | Knowledge management for C++ (AsciiDoc site).
+| KmSoftwareDevelopment | Documents standard development tasks implemented in different languages.
+| KnowledgeManagementFinance | Finance books and content.
+| SystemDesign | Links and notes about system design (includes a Microsoft section).
+| GitHubMainEntryPoint | Entry point to all repositories documentation, plus `Init_Dev_Repo.ps1`.
+| CloudComputing | Cloud certifications material.
+| ElasticStack | Elastic Stack notes (kept in the wiki).
+| christianpopescu.github.io | GitHub Pages sandbox (static site / blog).
+| SandboxStaticSite | Static site experiments.
+| InformationSourcesManagement | Information sources manager (C# and Java parts, submodules).
+| ComputerScience (private) | Notes on computer science (README only).
+|===
+
+== SDE tooling (Light Agile Software Development Engineer)
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| LaSdeCppTool | C++ implementation. BA/PM documents are in Azure DevOps (submodule).
+| LaSdeCSharpLibrary | C# implementation. Project management in Azure DevOps.
+| SDEToolsPoc | Many POCs, no unified version (renamed from SDETools in 2023).
+| SDEToolsServer | SDE tools server.
+| SDEToolsServerJava | Java socket server version.
+| SDEHelpers | Makefile-based dev helpers with templates and docs.
+| PySDETools | Python SDE tools.
+| PythonHelper | Small reusable Python helpers.
+| DevOpsHelperTools | Oracle admin scripts and SVN dump/load scripts.
+| SoftwareDevelopmentHelpers | PowerShell helper scripts.
+| CSharpScripAdmin | C# as admin scripting language, based on LinqPad.
+| CsvCompareTool | Compares CSV files.
+| NSourceControlHelper | Manages local and remote source control (C#).
+| LightHtmlReportLib | C# library to build HTML reports (titles, paragraphs, styles, tables), mainly for mails.
+| OracleFacade | Exposes services over an Oracle database.
+| WinClientToLinux | SFTP/SSH client from Windows to Linux (Renci).
+| BackupAndArchive | Backup and archive tool (README only).
+| LightHttpServerAdmin | Administration of local HTTP servers (README only).
+| CommandCenter (private) | Batchfile scripts for the command center of the computers (`CCP-Asus`).
+|===
+
+== Windows and C++
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| WindowsInternalsAndProgramming | Win32 native programming study (Petzold book).
+| WindowsPortableDeviceApi | Libraries to read data on phones, tablets and storage devices.
+| WindowsSystemTools | Windows system tools.
+| WrpLibCurl | C++ wrapper for LibCurl.
+| HelperCppLibraries | C++ helper libraries.
+| CppLib | C++ libraries (std lib).
+| VCSamples | Copy of Microsoft Visual C++ samples (2008-2017).
+| tvision | Fork of the cross-platform Turbo Vision port (text UI framework).
+|===
+
+== Text and console UI
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| WinConsoleUILibrary | C# library for DOS-like text UI in the Windows console.
+| WindowsConsoleHelper | Helpers for powerful console interfaces (C#).
+| TextUserInterfaceLab | Java study of modern text user interfaces.
+| CcpWinFramework | Framework for Windows tasks (command line runner, archiver runner); README has only a title.
+|===
+
+== Algorithms and training
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| DataStructuresAndAlgorithms | Documentation, books and C++ source.
+| DataStructureAndAlgorithmsLibrary | C# library implementation.
+| TrainingRepo | Hackerrank and other training (C++).
+| WebCrawler | Web crawler design.
+| Training (private) | Hackerrank, LeetCode, Cracking the Coding Interview, Elements of Programming Interviews, Pluralsight, algorithm notes.
+| CcpInterviewPreparation (private) | Interview preparation: docs, solutions, makefile.
+|===
+
+== POCs and sandboxes
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| Poc | Numbered small POCs: Linux C++, GTKmm, Qt, wxWidgets, MFC, WinForms, WPF, C# MVVM, SQLite, TCP, Web API, Oracle.
+| PocJ2ee | Spring MVC and Java technologies.
+| PocJavaDatabaseAndQueue | Java database and queue access.
+| Sandbox | Command line tools, processes and threads.
+| Ldap | LDAP experiments (C#).
+| PDFToolsSandBox | PDF libraries sandbox (README only).
+| NetFrameworkCSharp | Empty (no README).
+| ProjectsSoftwareEngineering (private) | C# archive of SVN projects from 2011 onward (MVVM, dependency injection, SharePoint WCF, WinForms patterns).
+| SandboxProgrammingLanguages (private) | C#, Ruby and C++ experiments.
+| SandboxArchitecture (private) | Client/server architecture sandbox.
+|===
+
+== Learning
+
+[cols="1,3"]
+|===
+| Repository | Content
+
+| skills-getting-started-with-github-copilot | GitHub Skills exercise (Python, pytest).
+|===
+
+== Observations
+
+* About 10 repositories contain only a README title: BackupAndArchive, LightHttpServerAdmin, PDFToolsSandBox, NetFrameworkCSharp, CcpWinFramework, ElasticStack, ComputerScience, PythonHelper, Ldap and KnowledgeManagementFinance.
+* Overlapping repositories: Training and TrainingRepo; SDEToolsServer and SDEToolsServerJava; DataStructuresAndAlgorithms and DataStructureAndAlgorithmsLibrary.
+* Several repositories have no README, or an empty one.
+* Most recent activity is in the knowledge management and documentation repositories; most C#, C++ and Java repositories have not changed since 2020-2024.
