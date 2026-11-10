@@ -4,6 +4,9 @@ Entry point to Git Hub - to access all repositories documentation  + info
 
 include::Doc/Main.adoc[]
 
+Description of repositories:
+include::Doc/Content_of_GitHub.adoc[]
+
 
 This repository contains also some scripts.
 
